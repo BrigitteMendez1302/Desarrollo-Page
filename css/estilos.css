@@ -1,0 +1,20 @@
+/* reglas --> estan conformadas de lo de abajo
+   selectores --> esta conformado de lo de como representamos un documento html
+   declaraciones --> lo que hacemos con los selectores  
+   propiedades  --> reciben a los valores, es algo mas especifico
+   valores --> lo que espera recibir, los id y eso
+*/
+header{ 
+    background: pink; /*!important es mejor no ponerlo ;*/
+    color: red /* propiedad: valor*/
+}
+/* selector de etiqueta, le hace mencion al tag html, --header, --nav, --div*/
+/* selector descendente*/
+/*body header div nav ol li label*/
+
+/*selector de clase*/
+/*.link*/
+
+/* lector de id
+es con # -> #portafolio*/
+/* lo que está dentro de las llaves es declaración*/
